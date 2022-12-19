@@ -1,0 +1,11 @@
+id
+Title
+Project
+Version
+Severity
+Priority
+Status
+Enviroment
+steps
+expected result
+actual result
